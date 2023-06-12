@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emiwaybantai/static/css/main.c39012e5.css",
+    "main.js": "/emiwaybantai/static/js/main.cfe210c7.js",
+    "static/js/787.81dc7098.chunk.js": "/emiwaybantai/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/emiwaybantai/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/emiwaybantai/index.html",
+    "main.c39012e5.css.map": "/emiwaybantai/static/css/main.c39012e5.css.map",
+    "main.cfe210c7.js.map": "/emiwaybantai/static/js/main.cfe210c7.js.map",
+    "787.81dc7098.chunk.js.map": "/emiwaybantai/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c39012e5.css",
+    "static/js/main.cfe210c7.js"
+  ]
+}
